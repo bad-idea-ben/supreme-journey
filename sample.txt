@@ -4,3 +4,7 @@ description:Just trying out some new ideas
 // Chromarush
 //notes:my first roll, and it's great|tags:pve
 dimwishlist:item=1119734784&perks=1482024992,3230963543,1820235745,1015611457,4283235141
+
+// False Promises
+//notes:fun to use, hard hitting|tags:mkb,pve
+dimwishlist:item=3143732432&perks=1392496348,1885400500,1820235745,3425386926,150943600
