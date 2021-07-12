@@ -1,0 +1,6 @@
+title:Bad-Idea-Ben's weapon picks
+description:Just trying out some new ideas
+
+// Chromarush
+//notes:my first roll, and it's great|tags:pve
+dimwishlist:item=1119734784&perks=1482024992,3230963543,1820235745,1015611457,4283235141
